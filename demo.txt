@@ -1,0 +1,31 @@
+    1  ls
+    2  ls -ltr
+    3  mkdir vscode
+    4  cd vscode/
+    5  ls
+    6  touch index.html
+    7  code .
+    8  git init
+    9  git status
+   10  git add .
+   11  git status
+   12  git commit -m "first commit"
+   13  git config --global user.email "imthiyas20202002@gmail,com"
+   14  git config --global user.email "imthiyas20202002@gmail.com"
+   15  git config --global user.name "imthiyaspet"
+   16  git commit -m "first commit"
+   17  git status
+   18  ls -a
+   19  git status
+   20  git remote add origin ttps://github.com/imthiyaspet/imthiyaspet.git
+   21  git remote -v
+   22  git remote add origin https://github.com/imthiyaspet/imthiyaspet.git
+   23  git remote aset-urlorigin https://github.com/imthiyaspet/imthiyaspet.git
+   24  git remote aet-urlo rigin https://github.com/imthiyaspet/imthiyaspet.git
+   25  git remote set-url origin https://github.com/imthiyaspet/imthiyaspet.git
+   26  git remote -v
+   27  git branch -M main
+   28  git push -u origin main
+   29  git push -u -f origin main
+   30  history
+   31  history > demo.txt
